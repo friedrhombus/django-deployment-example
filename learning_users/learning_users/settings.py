@@ -27,7 +27,7 @@ SECRET_KEY = '78sy4c_ub+o&$fp__7r$iew*_l@&d0xlh3%n0gbl58o639q&_8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["imillar.pythonanywhere.com"]
 
 
 # Application definition
