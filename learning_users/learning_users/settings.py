@@ -25,9 +25,9 @@ MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 SECRET_KEY = '78sy4c_ub+o&$fp__7r$iew*_l@&d0xlh3%n0gbl58o639q&_8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["imillar.pythonanywhere.com"]
+ALLOWED_HOSTS = ['imillar.pythonanywhere.com']
 
 
 # Application definition
